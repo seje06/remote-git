@@ -14,5 +14,5 @@
 
   ``` #include <stdio.h> ```
 
- - 이미지
+ **이미지**
   !image3!(image3.png)  
